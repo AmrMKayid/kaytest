@@ -8,7 +8,6 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name='kaytest',
     version='0.1',
-    scripts=['kaytest'],
     author="Amr Kayid",
     author_email="amrkayid2027@gmail.com",
     description="Kayid's first python package",
